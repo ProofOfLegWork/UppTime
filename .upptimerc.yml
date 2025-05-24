@@ -4,7 +4,7 @@ repo: UppTime # The name of this repository
 
 sites:
   - name: Plow Miner
-    url: https://plowminer.duckdns.org/status.html
+    url: plowminer.duckdns.org/status.html
     port: 80
     check: "tcp-ping"
     ipv6: true

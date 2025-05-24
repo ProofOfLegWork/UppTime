@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/plowminer.duckdns.org.ico",
     "slug": "plow-miner",
     "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.46%",
+    "uptime": "89.09%",
+    "uptimeDay": "89.09%",
+    "uptimeWeek": "89.09%",
+    "uptimeMonth": "89.09%",
+    "uptimeYear": "89.09%",
     "time": 289,
     "timeDay": 289,
     "timeWeek": 289,
     "timeMonth": 289,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-05-24": 0
+      "2025-05-24": 1
     }
   }
 ]

@@ -5,18 +5,19 @@
     "icon": "🚜",
     "slug": "plow-miner-site",
     "status": "down",
-    "uptime": "83.13%",
-    "uptimeDay": "29.18%",
-    "uptimeWeek": "83.13%",
-    "uptimeMonth": "83.13%",
-    "uptimeYear": "83.13%",
+    "uptime": "67.14%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "67.14%",
+    "uptimeMonth": "67.14%",
+    "uptimeYear": "67.14%",
     "time": 1394,
     "timeDay": 0,
     "timeWeek": 1394,
     "timeMonth": 1394,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2025-05-29": 42,
+      "2025-05-30": 42,
+      "2025-05-29": 1440,
       "2025-05-28": 978
     }
   }
